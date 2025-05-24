@@ -1,7 +1,3 @@
-Here’s an elegant and attractive README.md template tailored for your Habit-Bloom repository. You can further personalize it as desired.
-
----
-
 # 🌱 Habit Bloom
 
 **Track, build, and blossom your habits—one day at a time.**
@@ -18,16 +14,6 @@ Habit Bloom is a modern, intuitive app designed to help you cultivate positive h
 - **Progress Tracking:** See both streaks and overall growth.
 - **Reminders & Notifications:** Never miss a day!
 - **Responsive Design:** Enjoy a seamless experience on any device.
-
----
-
-## 📸 Screenshots
-
-<!--
-Add screenshots/gifs here:
-![Habit Bloom Dashboard](assets/screenshots/dashboard.png)
-![Habit Tracker](assets/screenshots/tracker.png)
--->
 
 ---
 
@@ -97,5 +83,3 @@ This project is licensed under the [MIT License](LICENSE).
 Start your journey today—because every big change starts with a single habit.
 
 ---
-
-Feel free to copy, adjust, and add project-specific details or images!
