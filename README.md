@@ -1,85 +1,57 @@
-# 🌱 Habit Bloom
+# 📖 Habit-Bloom
 
-**Track, build, and blossom your habits—one day at a time.**
+Habit-Bloom is a web application designed to help you build, track, and maintain positive habits with a clean, modern interface. Set your goals, monitor your progress, and bloom into your best self.
 
-Habit Bloom is a modern, intuitive app designed to help you cultivate positive habits and achieve your goals. Built with TypeScript for scalability and reliability.
+🌐 [Live Demo](https://habit-bloom-tau.vercel.app/)
+
+---
+
+## 📸 Screenshot
+![Screenshot 2025-05-25 133206](https://github.com/user-attachments/assets/2549a00c-f6f8-4a52-b17e-e27a6a8b5c65)
 
 ---
 
 ## ✨ Features
 
-- **Beautiful Dashboard:** Visualize your progress with elegant charts and stats.
-- **Custom Habit Creation:** Add, edit, or remove habits that matter to you.
-- **Daily Check-ins:** Mark your habits complete and stay consistent.
-- **Progress Tracking:** See both streaks and overall growth.
-- **Reminders & Notifications:** Never miss a day!
-- **Responsive Design:** Enjoy a seamless experience on any device.
+- Create, edit, and delete habits
+- Visual progress tracking
+- Daily, weekly, and monthly views
+- Responsive, user-friendly interface
+- Persistent data storage
 
 ---
 
-## 🚀 Getting Started
-
-### 1. Clone the Repository
-
-```bash
-git clone https://github.com/AngelaMaryAnil/Habit-Bloom.git
-cd Habit-Bloom
-```
-
-### 2. Install Dependencies
-
-```bash
-npm install
-```
-
-### 3. Run the App Locally
-
-```bash
-npm start
-```
-App should now be running at `http://localhost:3000`
-
----
-
-## 📂 Project Structure
-
-```
-Habit-Bloom/
-├── src/
-│   ├── components/
-│   ├── pages/
-│   ├── utils/
-│   └── ...
-├── public/
-├── package.json
-└── README.md
-```
-
----
-
-## 🛠️ Built With
+## 🚀 Tech Stack
 
 - **TypeScript**
+- **Next.js**
 - **React**
-- **JavaScript**
-- **HTML & CSS**
+- **Tailwind CSS** (or other CSS framework as used)
+- **Vercel** (for deployment)
 
 ---
 
-## 👩‍💻 Contributing
+## 🛠️ Getting Started
 
-Contributions are welcome! Please open an issue or submit a pull request for suggestions or improvements.
+1. **Clone the repository**
+   ```bash
+   git clone https://github.com/AngelaMaryAnil/Habit-Bloom.git
+   cd Habit-Bloom
+   ```
+
+2. **Install dependencies**
+   ```bash
+   npm install
+   ```
+
+3. **Run the development server**
+   ```bash
+   npm run dev
+   ```
+
+4. Open [http://localhost:5173/](http://localhost:5173/) in your browser to view the app.
 
 ---
 
 ## 📄 License
-
 This project is licensed under the [MIT License](LICENSE).
-
----
-
-## 🌸 Let Your Habits Bloom!
-
-Start your journey today—because every big change starts with a single habit.
-
----
